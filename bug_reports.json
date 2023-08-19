@@ -1,1 +1,9 @@
-
+{
+  "Environment":[macOS Ventura 13.0 / Safari 16.1, Win 10 /Google Chrome 107, macOS Big Sur 11.7.2, Safari 16.2, macOS Big Sur 11.7.2, Chrome 109, Win 10 Chrome 113], 
+  "Title":"Error 404 is displayed in Console throughout the site ",
+  "Steps":"1. Navigate to dns.ru; 2. Open DevTools (Console)",
+  "Expected Result":"Error 404 isn't displayed in Console",
+  "Actual Result":"Error 404 is displayed in Console",
+  "Attachment":[link]
+}
+  
